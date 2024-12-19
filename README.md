@@ -12,4 +12,4 @@
    git clone <URL_DU_DEPOT>
    cd inventory_manager
 ## Vidéo présentation
-L'exécution du script est démontrée dans [cette vidéo](https://github.com/seignif/script-perso/blob/main/videoScrip.mkv). Les tests unitaires sont présentés [ici](https://github.com/seignif/script-perso/blob/main/test_csv_handler.py) et [ici](.
+L'exécution du script est démontrée dans [cette vidéo](https://github.com/seignif/script-perso/blob/main/videoScrip.mkv). Les tests unitaires sont présentés [ici](https://github.com/seignif/script-perso/blob/main/test_csv_handler.py) et [ici](https://github.com/seignif/script-perso/blob/main/test_report_generator.py).
