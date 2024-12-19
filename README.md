@@ -12,4 +12,4 @@
    git clone <URL_DU_DEPOT>
    cd inventory_manager
 ## Vidéo présentation
-L'exécution du script est démontrée dans (cette vidéo). Les tests unitaires sont présentés ici.
+L'exécution du script est démontrée dans [cette vidéo](. Les tests unitaires sont présentés ici.
